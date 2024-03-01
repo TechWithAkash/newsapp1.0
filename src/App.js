@@ -6,7 +6,7 @@ import LoadingBar from "react-top-loading-bar";
 
 export default class App extends Component {
   pageSize = 100;
-
+//This is the basic News App to displaying the daily news to the user
   state = {
     progress: 0,
   }
